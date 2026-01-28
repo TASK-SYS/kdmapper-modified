@@ -19,4 +19,4 @@ A modified version of the popular **kdmapper**, optimized for modern game enviro
 1. Ensure your driver is compiled as a `.sys` file with **Control Flow Guard (CFG)** disabled.
 2. Run the mapper via command line:
    ```cmd
-   kdmapper.exe your_driver.sys
+   kdmapper_h2.exe your_driver.sys
